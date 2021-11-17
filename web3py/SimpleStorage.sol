@@ -1,9 +1,7 @@
 // SPDX-License-Identifier: MIT
-
 pragma solidity >=0.6.0 <0.9.0;
 
 // ^0.6.0; any 0.6.x until 0.7.0
-
 
 contract SimpleStorage {
     //uint256 favoriteNumber = 5; 
